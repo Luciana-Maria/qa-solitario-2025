@@ -1,0 +1,1 @@
+# qa-solitario-2025
