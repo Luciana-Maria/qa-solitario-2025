@@ -51,7 +51,7 @@ Se você está começando na área de **Quality Assurance** ou quer se conectar 
 ## 🔗 Links úteis 
 
 Confira as trilhas agora mesmo:  
-➡️ Trilha <a href="https://youtube.com/playlist?list=PL1fCWul_mzrgvOWTue0RhBsheTZrHOHo3&si=zfe1bI4ZUW0Ic4N3" target="_blank">` Técnica`</a> <br>
+ <a href="https://youtube.com/playlist?list=PL1fCWul_mzrgvOWTue0RhBsheTZrHOHo3&si=zfe1bI4ZUW0Ic4N3" target="_blank">` Técnica`</a> <br>
 ➡️ Trilha <a href="https://youtube.com/playlist?list=PL1fCWul_mzrgvOWTue0RhBsheTZrHOHo3&si=zfe1bI4ZUW0Ic4N3" target="_blank">` Carreira`</a>
 ---
 
