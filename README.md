@@ -53,7 +53,6 @@ Se você está começando na área de **Quality Assurance** ou quer se conectar 
 Confira as trilhas agora mesmo:  
  <a href="https://youtube.com/playlist?list=PL1fCWul_mzrgvOWTue0RhBsheTZrHOHo3&si=zfe1bI4ZUW0Ic4N3" target="_blank"> Técnica </a> <br>
  <a href="https://youtube.com/playlist?list=PL1fCWul_mzrgvOWTue0RhBsheTZrHOHo3&si=zfe1bI4ZUW0Ic4N3" target="_blank"> Carreira </a> <br>
- <a href="https://www.cypress.io/" target="_blank">Ferramenta de Testes: Cypress</a>
 ---
 
 ## 🏅 Certificado
