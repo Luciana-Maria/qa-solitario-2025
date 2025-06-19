@@ -64,7 +64,7 @@ Você pode visualizar meu certificado de participação aqui:
 
 ## 💁‍♀️ Sobre mim
 
-Me chamo **Luciana**, sou estudante de **Análise e Desenvolvimento de Sistemas** e futura QA de sucesso!  
+Me chamo **Luciana**, formada em  **Análise e Desenvolvimento de Sistemas** e futura QA de sucesso!  
 Faço parte da **#GeraçãoBug** e acredito que cada erro é um convite para aprender algo novo.  
 Se quiser trocar ideia, meu LinkedIn tá sempre aberto: [@lucianaQA](https://www.linkedin.com/in/lucianaqa/) 💌
 
